@@ -42,4 +42,3 @@ except KeyboardInterrupt:
     print("거리 측정 완료 ")
     GPIO.cleanup()      
         
-client.disconnect()
